@@ -9,6 +9,6 @@ background-image: url("../images/backgroundimage.png");
   
   background-position: center;
   background-repeat: repeat;
-  background-cover: cover;
+  background-size: cover;
   
 }
