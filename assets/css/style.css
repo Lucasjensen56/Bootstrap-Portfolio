@@ -7,7 +7,7 @@ background-image: url("../images/backgroundimage.png");
   
   height: 100%;
   
-  background-position: center;
+  background-position: cover;
   background-repeat: repeat;
   background-size: cover;
   
