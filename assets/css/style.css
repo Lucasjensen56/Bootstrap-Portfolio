@@ -72,3 +72,11 @@ body, html {
     -o-transition: border .2s ease-in-out;
     transition: border .2s ease-in-out;
 }
+
+hr {
+		  height: 1px;
+    background-color: grey;
+    margin-top: 29px;
+    margin-bottom: 20px;
+    width: 100%;
+	}
