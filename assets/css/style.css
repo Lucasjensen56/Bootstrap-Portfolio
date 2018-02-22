@@ -161,6 +161,18 @@ p {
     font-size: 122%;
 }
 
+.navbar-brand {
+    float: left;
+    height: 51px;
+    padding: 15px 31px 0px 33px;
+    font-size: 40px;
+    line-height: 20px;
+
+    background-color: #4aaaa5;
+    text-align: center;
+    color: white;
+}
+
 
 
 
