@@ -292,6 +292,11 @@ footer {
     margin-left: 61px;
 }
 
+.navbar-right {
+    float: right!important;
+    margin-right: 54px;
+}
+
 
 
 @media (min-width: 768px){
@@ -303,6 +308,23 @@ footer {
 }
 
 }
+
+
+@media (max-width: 640px) {
+
+.navbar>.container-fluid .navbar-brand {
+    margin-left: 14px;
+}
+
+.navbar-nav {
+    margin: 7.5px 271px;
+    text-align: center;
+}
+
+	
+}
+
+
 
 
 
