@@ -278,10 +278,18 @@ footer {
 }
 
 .container-fluid {
-    /* padding-right: 15px; */
-    /* padding-left: 15px; */
+     padding-right: 0px; 
+     padding-left: 0px; 
     margin-right: auto;
     margin-left: auto;
+}
+
+.navH1 {
+	margin-left: 61px;
+}
+
+.navbar>.container-fluid .navbar-brand {
+    margin-left: 61px;
 }
 
 
